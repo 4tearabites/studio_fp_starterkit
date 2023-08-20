@@ -6,13 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Starter Kits/Studio_FP_Starter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
 				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/IMC_Default.uasset",
-				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
 				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"D:/Starter Kits/Studio_FP_Starter/Content/Blueprints/ActorBlueprints/PickupBP.uasset",
-				"D:/Starter Kits/Studio_FP_Starter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/M5/P24PLF3929NBMX538TB4LQ.uasset"
+				"D:/Starter Kits/Studio_FP_Starter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/M5/P24PLF3929NBMX538TB4LQ.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IMC_Default.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/Blueprints/UIUX/BasicUI_Player.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"D:/Starter Kits/Studio_FP_Starter/Content/FirstPerson/Input/Actions/IA_Sprint.uasset"
 			]
 		}
 	]
